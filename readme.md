@@ -4,13 +4,13 @@
 A l'aide du dossier ressources, créer une page web index.php qui affichera une liste de cards correspondant à la totalité des films présents dans le répertoire. 
 
 Dans l'ordre, ces cartes afficheront :
-    - Le nom du film
-    - L'affiche du film
-    - Le réalisateur
-    - La durée en heure (attention, de base, la durée est en minutes !)
-    - Le genre
-    - Le synopsis
-    - La vidéo de la bande-annonce
+   - Le nom du film
+   - L'affiche du film
+   - Le réalisateur
+   - La durée en heure (attention, de base, la durée est en minutes !)
+   - Le genre
+   - Le synopsis
+   - La vidéo de la bande-annonce
 
 
 ## Objectif 
