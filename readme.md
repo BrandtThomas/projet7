@@ -28,7 +28,7 @@ Comprendre le fonctionnement des tableaux et du foreach sera primodial lorsque l
 
 ## Ressources & astuces
 
-- Dans le dossier ressources, 26 dossiers seront présents. Dans chacun des dossiers, un fichier à rentrer dans le tableau. Une image correspond à l'affichtexte vous servira à récupérer les informations e du film sera également présente.
+- Dans le dossier ressources, 26 dossiers seront présents. Dans chacun des dossiers, un fichier info sera à rentrer dans le tableau. Une image correspond à l'affiche du film sera également présente.
 - Aidez-vous de vos anciens projets pour la responsive et le display flex
 
 ## Deadline
