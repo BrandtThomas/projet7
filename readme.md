@@ -7,6 +7,7 @@ Dans l'ordre, ces cartes afficheront :
    - Le nom du film
    - L'affiche du film
    - Le réalisateur
+   - La date de sortie
    - La durée en heure (attention, de base, la durée est en minutes !)
    - Le genre
    - Le synopsis
